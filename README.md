@@ -88,9 +88,11 @@ A narrativa fornecida para o desafio descreve o seguinte cenário:
 
 ---
 
-## Diagrama Entidade-Relacionamento
+## 📈 Diagrama Conceitual
 
-📌 *Adicione aqui a imagem do seu diagrama ER ou um link para visualização online (como do Draw.io ou Lucidchart).*
+> Diagrama desenvolvido no [draw.io](https://draw.io)
+
+<img src="./Diagrama.png" alt="Diagrama Conceitual" width="100%">
 
 ---
 
